@@ -1,0 +1,6 @@
+F:\Project\Github\machine_learning_algorithms\K_means_clustering\K_means_clustering\bin\Debug\K_means_clustering.exe.config
+F:\Project\Github\machine_learning_algorithms\K_means_clustering\K_means_clustering\bin\Debug\K_means_clustering.exe
+F:\Project\Github\machine_learning_algorithms\K_means_clustering\K_means_clustering\bin\Debug\K_means_clustering.pdb
+F:\Project\Github\machine_learning_algorithms\K_means_clustering\K_means_clustering\obj\Debug\K_means_clustering.csprojResolveAssemblyReference.cache
+F:\Project\Github\machine_learning_algorithms\K_means_clustering\K_means_clustering\obj\Debug\K_means_clustering.exe
+F:\Project\Github\machine_learning_algorithms\K_means_clustering\K_means_clustering\obj\Debug\K_means_clustering.pdb
